@@ -2,8 +2,8 @@ Brackets Atom Dark Theme
 ========
 
 ### Installation
-Method 1: Open the Brackets Extension Manager and search for brackets atom dark
-Method 2: Download directly from GitHub using either the latest release and install the contents to extensions/user/brackets.atom.dark folder.
+- Method 1: Open the Brackets Extension Manager and search for brackets atom dark
+- Method 2: Download directly from GitHub using either the latest release and install the contents to extensions/user/brackets.atom.dark folder.
 
 ![Atom Dark](https://github.com/yasinkuyu/brackets-atom-dark/raw/master/screenshot.png)
 
