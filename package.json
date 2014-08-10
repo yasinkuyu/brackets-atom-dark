@@ -1,13 +1,13 @@
 {
     "title": "Atom Dark Theme",
-    "name": "insya.dark",
-    "description": "GitHub Atom editor default dark color syntax (theme)",
-    "version": "1.0.0",
+    "name": "insya.atom.dark",
+    "description": "GitHub Atom editor default dark theme",
+    "version": "1.0.1",
     "author": "Yasin Kuyu <yasinkuyu@gmail.com>",
-    "homepage": "https://github.com/yasinkuyu/brackets-atom",
+    "homepage": "https://github.com/yasinkuyu/brackets-atom-dark",
     "repository": {
         "type": "git",
-        "url": "git://github.com/yasinkuyu/brackets-atom.git"
+        "url": "git://github.com/yasinkuyu/brackets-atom-dark.git"
     },
     "engines": {
         "brackets": ">=0.42.0"
