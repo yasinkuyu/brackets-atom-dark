@@ -6,18 +6,11 @@
  * 07/08/2014
  * 
  * Licensed under MIT
- * GitHub https://github.com/yasinkuyu/brackets-atom
+ * GitHub https://github.com/yasinkuyu/brackets-atom-dark
  */
 
-@font-face {
-  font-family: 'Inconsolata';
-  font-style: normal;
-  font-weight: normal;
-  src: url("font/Inconsolata.ttf") format('truetype');
-}
-
 .CodeMirror { 
-    font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier;
+    font-family: Consolas, 'Courier New', Courier !important;
     font-size: 14px !important; 
     line-height: 1.3em; 
 }
@@ -46,8 +39,6 @@
 @activeline-bgcolor: rgba(96, 96, 96, 0.5);
 @activeline-number-bgcolor: rgba(96, 96, 96, 0.5);
 @matching-bracket: #444;
-
-
 
 .CodeMirror .cm-keyword { color: @purple; }
 .CodeMirror .cm-atom { color: #f8de7e; }
@@ -152,7 +143,6 @@
 .CodeMirror .cm-dk-whitespace-trailing-tab::before {
     background-color: #75715E !important;
 }
-
 
 /**
  * Code Folding (https://github.com/thehogfather/brackets-code-folding)
